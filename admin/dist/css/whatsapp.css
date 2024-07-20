@@ -1,0 +1,25 @@
+.whatsapp{
+background-image: url('whatsapp.png'); 
+border: 1px solid #5cbe4a; 
+display: inline-block !important; 
+position: relative; 
+cursor: pointer; 
+text-transform: none;
+color: #fff; 
+border-radius: 5px; 
+background-color: #28A619; 
+background-repeat: no-repeat; 
+background-position: 5px; 
+line-height: 1.2; 
+text-decoration: none; 
+text-align: left;
+padding: 6px 6px 6px 30px;
+letter-spacing: .6px;
+font-size:12px;
+font-weight:bold;
+}
+.whatsapp:hover{
+text-decoration:none;
+color:#FFF;
+}/* CSS Document */
+
